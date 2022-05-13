@@ -1,2 +1,2 @@
 # multiThreadingPortScanner
-open port scanning using threading
+Open port scanning using threading
